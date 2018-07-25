@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@atomist/clj-editors": "0.2.13",
-    "npm-test": "0.0.17",
+    "npm-test": "0.0.18",
     "npm-test-1": "0.0.9"
   },
   "author": "Atomist, Inc.",
