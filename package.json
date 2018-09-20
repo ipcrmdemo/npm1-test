@@ -15,7 +15,7 @@
     "rimraf": "^2.6.2"
   },
   "dependencies": {
-    "npm-test": "0.2.1"
+    "@atomist/sdm-pack-npmtest": "0.2.1"
   },
   "author": "Atomist, Inc.",
   "repository": {
