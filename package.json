@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@atomist/clj-editors": "0.4.1",
-    "@atomist/sdm-pack-npmtest": "0.2.3"
+    "@atomist/sdm-pack-npmtest": "0.2.5"
   },
   "author": "Atomist, Inc.",
   "repository": {
