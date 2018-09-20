@@ -27,6 +27,7 @@
     "apollo-codegen": "^0.19.1"
   },
   "dependencies": {
+    "@atomist/sdm-pack-npmtest": "0.2.1",
     "@atomist/clj-editors": "0.4.1"
   },
   "author": "Atomist, Inc.",
