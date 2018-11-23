@@ -30,6 +30,12 @@
     "@atomist/clj-editors": "0.4.1",
     "@ipcrmdemo/npm-test": "0.2.35"
   },
+  "backpack-react-scripts": {
+    "externals": {
+      "react": "v7.0",
+      "react-dom": "v7.0"
+    }
+  },
   "author": "Atomist, Inc.",
   "repository": {
     "type": "git",
