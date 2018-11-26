@@ -1,8 +1,8 @@
 {
   "backpack-react-scripts": {
     "externals": {
-      "react": "v8.1.1",
-      "react-dom": "v8.1.1"
+      "react": "v8.1.2",
+      "react-dom": "v8.1.2"
     }
   },
   "engines": {
