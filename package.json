@@ -52,7 +52,7 @@
   "bugs": {
     "url": "https://github.com/atomist/sdm-pack-fingerprints/issues"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "an Atomist SDM Extension Pack for fingerprinting code",
   "scripts": {
     "compile:ts": "tsc --project .",
