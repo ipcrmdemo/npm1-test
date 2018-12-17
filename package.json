@@ -1,4 +1,10 @@
 {
+  "backpack-react-scripts": {
+    "externals": {
+      "react": "v8.1.2",
+      "react-dom": "v8.1.2"
+    }
+  },
   "engines": {
     "node": "9.x.x",
     "npm": "5.x.x"
@@ -12,7 +18,7 @@
     "mocha": "^4.1.0",
     "prettier": "^1.11.1",
     "typescript-formatter": "^7.2.0",
-    "power-assert": "^1.4.4",
+    "power-assert": "^1.4.5",
     "@types/power-assert": "^1.4.29",
     "supervisor": "^0.12.0",
     "typescript": "2.8.3",
